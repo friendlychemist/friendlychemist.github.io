@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://www.linkrot.ca/images/favicon.ico</loc>
+    <lastmod>2014-04-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.linkrot.ca/images/adobe%20-%20me382x271.jpg</loc>
+    <lastmod>2014-04-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.linkrot.ca/images/909%20bd.jpg</loc>
+    <lastmod>2014-04-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.linkrot.ca/images/adobe%20-%20me.jpg</loc>
+    <lastmod>2014-04-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.linkrot.ca/index.html</loc>
+    <lastmod>2014-04-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://www.linkrot.ca/phone/index.html"/>
+  </url>
+</urlset>
